@@ -41,6 +41,7 @@ $(function() {
                         tr.append("<td>" + r.users[i].age + "</td>");
                         tr.append("<td>" + r.users[i].email + "</td>");
                         tr.append("<td>" + r.users[i].address + "</td>");
+                        // tr.append('<td style="background-color:'+ r.users[i].colorHex+'">' + r.users[i].color + "</td>");
                         // tbody.append(tr);
                         $('#users-list-table').append(tr);
                     }

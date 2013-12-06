@@ -8,6 +8,7 @@
           "mobile":"101200300",
           "address":"Sesame Street 1",
           "color":"amaranth",
+          "colorHex": "#E52B50",
           "animal": "salmon"
         },
         {
@@ -17,7 +18,8 @@
           "email":"lofty.the.salesman@sesame.street",
           "mobile":"102200300",
           "address":"Sesame Street 2",
-          "color":"ametyst",
+          "color":"amethyst",
+          "colorHex": "#9966CC",
           "animal": "monkey"
         },
         {
@@ -28,6 +30,7 @@
           "mobile":"103200300",
           "address":"Sesame Street 3",
           "color":"puce",
+          "colorHex": "#CC8899",
           "animal": "camel"
         },
         {
@@ -38,6 +41,7 @@
           "mobile":"104200300",
           "address":"Sesame Street 4",
           "color":"salmon",
+          "colorHex": "#FA8072",
           "animal": "giraffe"
         },
         {
@@ -48,6 +52,7 @@
           "mobile":"105200300",
           "address":"Sesame Street 5",
           "color":"red",
+          "colorHex": "#FF0000",
           "animal": "bull"
         },
         {
@@ -58,6 +63,7 @@
           "mobile":"106200300",
           "address":"Sesame Street 6",
           "color":"sapphire",
+          "colorHex": "#0F52BA",
           "animal": "butterfly"
         },
         {
@@ -68,6 +74,7 @@
           "mobile":"107200300",
           "address":"Sesame Street 7",
           "color":"jade",
+          "colorHex": "#00A86B",
           "animal": "beetle"
         },
         {
@@ -78,6 +85,7 @@
           "mobile":"108200300",
           "address":"Sesame Street 8",
           "color":"ivory",
+          "colorHex": "#FFFFF0",
           "animal": "goose"
         },
         {
@@ -88,6 +96,7 @@
           "mobile":"109200300",
           "address":"Sesame Street 9",
           "color":"copper",
+          "colorHex": "#B87333",
           "animal": "bird"
         },
         {
@@ -98,6 +107,7 @@
           "mobile":"110200300",
           "address":"Sesame Street 10",
           "color":"coral",
+          "colorHex": "#F88379",
           "animal": "zebra"
         },
         {
@@ -108,6 +118,7 @@
           "mobile":"111200300",
           "address":"Sesame Street 11",
           "color":"coffee",
+          "colorHex": "#6F4E37",
           "animal": "dog"
         },
         {
@@ -118,6 +129,7 @@
           "mobile":"112200300",
           "address":"Sesame Street 12",
           "color":"violet",
+          "colorHex": "#EE82EE",
           "animal": "cow"
         },
         {
@@ -128,6 +140,7 @@
           "mobile":"113200300",
           "address":"Sesame Street 13",
           "color":"teal",
+          "colorHex": "#008080",
           "animal": "cat"
         },
         {
@@ -137,7 +150,8 @@
           "email":"mrs.grouch@sesame.street",
           "mobile":"114200300",
           "address":"Sesame Street 14",
-          "color":"white",
+          "color":"viridian",
+          "colorHex": "#40826D",
           "animal": "bear"
         },
         {
@@ -148,6 +162,7 @@
           "mobile":"115200300",
           "address":"Sesame Street 15",
           "color":"ruby",
+          "colorHex": "#E0115F",
           "animal": "snake"
         },
         {
@@ -158,6 +173,7 @@
           "mobile":"116200300",
           "address":"Sesame Street 16",
           "color":"rose",
+          "colorHex": "#FF00AF",
           "animal": "dinosaur"
         },
         {
@@ -168,6 +184,7 @@
           "mobile":"117200300",
           "address":"Sesame Street 17",
           "color":"salmon",
+          "colorHex": "#FA8072",
           "animal": "wolf"
         },
         {
@@ -178,6 +195,7 @@
           "mobile":"118200300",
           "address":"Sesame Street 18",
           "color":"raspberry",
+          "colorHex": "#E30B5C",
           "animal": "elephant"
         },
         {
@@ -187,7 +205,8 @@
           "email":"pepe.the.king.prawn@sesame.street",
           "mobile":"119200300",
           "address":"Sesame Street 19",
-          "color":"puple",
+          "color":"purple",
+          "colorHex": "#800080",
           "animal": "fish"
         },
         {
@@ -198,6 +217,7 @@
           "mobile":"120200300",
           "address":"Sesame Street 20",
           "color":"amber",
+          "colorHex": "#FFBF00",
           "animal": "horse"
         }
     ]
