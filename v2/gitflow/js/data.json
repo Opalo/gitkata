@@ -1,0 +1,204 @@
+{
+    "users": [
+        {
+          "id":1,
+          "name":"Baby Bear",
+          "age": 21,
+          "email":"baby.bear@sesame.street",
+          "mobile":"101200300",
+          "address":"Sesame Street 1",
+          "color":"amaranth",
+          "animal": "salmon"
+        },
+        {
+          "id":2,
+          "name":"Lefty the Salesman",
+          "age": 22,
+          "email":"lofty.the.salesman@sesame.street",
+          "mobile":"102200300",
+          "address":"Sesame Street 2",
+          "color":"ametyst",
+          "animal": "monkey"
+        },
+        {
+          "id":3,
+          "name":"Telly Monster",
+          "age": 23,
+          "email":"telly.monster@sesame.street",
+          "mobile":"103200300",
+          "address":"Sesame Street 3",
+          "color":"puce",
+          "animal": "camel"
+        },
+        {
+          "id":4,
+          "name":"Kermit the Frog",
+          "age": 24,
+          "email":"kermit.the.frog@sesame.street",
+          "mobile":"104200300",
+          "address":"Sesame Street 4",
+          "color":"salmon",
+          "animal": "giraffe"
+        },
+        {
+          "id":5,
+          "name":"Grover",
+          "age": 25,
+          "email":"grover@sesame.street",
+          "mobile":"105200300",
+          "address":"Sesame Street 5",
+          "color":"red",
+          "animal": "bull"
+        },
+        {
+          "id":6,
+          "name":"Elmo",
+          "age": 26,
+          "email":"elmo@sesame.street",
+          "mobile":"106200300",
+          "address":"Sesame Street 6",
+          "color":"sapphire",
+          "animal": "butterfly"
+        },
+        {
+          "id":7,
+          "name":"Cookie Monster",
+          "age": 27,
+          "email":"cookie.monster@sesame.street",
+          "mobile":"107200300",
+          "address":"Sesame Street 7",
+          "color":"jade",
+          "animal": "beetle"
+        },
+        {
+          "id":8,
+          "name":"Bert",
+          "age": 28,
+          "email":"bert@sesame.street",
+          "mobile":"108200300",
+          "address":"Sesame Street 8",
+          "color":"ivory",
+          "animal": "goose"
+        },
+        {
+          "id":9,
+          "name":"Count von Count",
+          "age": 29,
+          "email":"count.von.count@sesame.street",
+          "mobile":"109200300",
+          "address":"Sesame Street 9",
+          "color":"copper",
+          "animal": "bird"
+        },
+        {
+          "id":10,
+          "name":"Frazzle",
+          "age": 30,
+          "email":"frazzle@sesame.street",
+          "mobile":"110200300",
+          "address":"Sesame Street 10",
+          "color":"coral",
+          "animal": "zebra"
+        },
+        {
+          "id":11,
+          "name":"Curly Bear",
+          "age": 31,
+          "email":"curly.bear@sesame.street",
+          "mobile":"111200300",
+          "address":"Sesame Street 11",
+          "color":"coffee",
+          "animal": "dog"
+        },
+        {
+          "id":12,
+          "name":"Big Bird",
+          "age": 32,
+          "email":"big.bird@sesame.street",
+          "mobile":"112200300",
+          "address":"Sesame Street 12",
+          "color":"violet",
+          "animal": "cow"
+        },
+        {
+          "id":13,
+          "name":"Hoots the Owl",
+          "age": 33,
+          "email":"hoots.the.owl@sesame.street",
+          "mobile":"113200300",
+          "address":"Sesame Street 13",
+          "color":"teal",
+          "animal": "cat"
+        },
+        {
+          "id":14,
+          "name":"Mrs. Grouch",
+          "age": 34,
+          "email":"mrs.grouch@sesame.street",
+          "mobile":"114200300",
+          "address":"Sesame Street 14",
+          "color":"white",
+          "animal": "bear"
+        },
+        {
+          "id":15,
+          "name":"Sherlock Hemlock",
+          "age": 35,
+          "email":"sherlock.hemlock@sesame.street",
+          "mobile":"115200300",
+          "address":"Sesame Street 15",
+          "color":"ruby",
+          "animal": "snake"
+        },
+        {
+          "id":16,
+          "name":"Gonzo",
+          "age": 36,
+          "email":"gonzo@sesame.street",
+          "mobile":"116200300",
+          "address":"Sesame Street 16",
+          "color":"rose",
+          "animal": "dinosaur"
+        },
+        {
+          "id":17,
+          "name":"Janice",
+          "age": 37,
+          "email":"janice@sesame.street",
+          "mobile":"117200300",
+          "address":"Sesame Street 17",
+          "color":"salmon",
+          "animal": "wolf"
+        },
+        {
+          "id":18,
+          "name":"Miss Piggy",
+          "age": 38,
+          "email":"miss.piggy@sesame.street",
+          "mobile":"118200300",
+          "address":"Sesame Street 18",
+          "color":"raspberry",
+          "animal": "elephant"
+        },
+        {
+          "id":19,
+          "name":"Pepe the King Prawn",
+          "age": 39,
+          "email":"pepe.the.king.prawn@sesame.street",
+          "mobile":"119200300",
+          "address":"Sesame Street 19",
+          "color":"puple",
+          "animal": "fish"
+        },
+        {
+          "id":20,
+          "name":"Aretha",
+          "age": 40,
+          "email":"aretha@sesame.street",
+          "mobile":"120200300",
+          "address":"Sesame Street 20",
+          "color":"amber",
+          "animal": "horse"
+        }
+    ]
+}

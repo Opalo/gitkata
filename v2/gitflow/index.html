@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>List of users</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script type='text/javascript' src="js/jquery.js"></script>
+        <script type='text/javascript' src="js/client.js"></script>
+
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <style>
+            .top-buffer { margin-top:20px; }
+            .form-lbl { width: 100px; }
+            table, th, td { border: 1px solid #adadad; }
+            th, td { padding: 3px 7px 2px 7px; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="text-center" style="margin: 40px">List of users</h1>
+
+            <div class="bs-docs-grid">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <button id="btn-show-users" type="button" class="btn btn-default">Show users</button>
+                    </div>
+                </div>
+                <div id="users-list-container" class="row top-buffer">
+                    <div class="col-lg-12">
+                        <table id="users-list-table" style="width: 100%">
+                            <thead>
+                                <th>Name</th>
+                                <th>Age</th>
+                                <th>Email</th>
+                                <th>Address</th>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
